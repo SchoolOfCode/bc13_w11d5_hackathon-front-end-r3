@@ -1,6 +1,6 @@
 .App {
   max-width: 100%;
-  min-height: 100vh;
+  min-height: 150vh;
   background-color: black;
 }
 
@@ -26,4 +26,12 @@
   to {
     transform: rotate(360deg);
   }
+}
+.title {
+  font-size: 100px;
+  text-align: center;
+  font-family: "Rubik Gemstones", cursive;
+}
+h1 {
+  padding: 0px;
 }

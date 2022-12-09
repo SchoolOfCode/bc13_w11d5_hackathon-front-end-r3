@@ -18,7 +18,10 @@ function App() {
 
   return (
     <div className="App">
-      <h1>DinoMania</h1>
+      <div className="title">
+        <h1>DinoMania</h1>
+      </div>
+
       <dataContext.Provider value={data}>
         <ListData data={data} />
       </dataContext.Provider>
