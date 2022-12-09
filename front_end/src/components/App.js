@@ -18,6 +18,7 @@ function App() {
 
   return (
     <div className="App">
+      <h1>DinoMania</h1>
       <dataContext.Provider value={data}>
         <ListData data={data} />
       </dataContext.Provider>
