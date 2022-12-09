@@ -1,6 +1,6 @@
 
 import "./Card.css"
-    function Card({ title, description, poster_path, buttonText1, buttonText2}){
+    function Card({ title, description, poster_path}){
     return (
         <div className="card_container">
             <div className= "card">
