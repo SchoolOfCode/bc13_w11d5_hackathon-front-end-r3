@@ -1,11 +1,12 @@
 
 import './App.css';
 import ListData from "../components/ListData/ListData"
+import data from "..//data.json"
 function App() {
   
   return (
     <div className="App">
-    <ListData/>
+    <ListData data={data}/>
       
     </div>
   );

@@ -1,7 +1,7 @@
 import Card from "./Card/Card.js"
-export default function ListData () {
+export default function ListData (props) {
     return (<>
-        <Card/>
+        <Card data={props.data}/>
 
     </>)
 }
