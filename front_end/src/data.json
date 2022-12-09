@@ -1,0 +1,66 @@
+[
+ {
+   "Name": "Albertosaurus",
+   "Picture": "https://static.wikia.nocookie.net/jurassicworld-evolution/images/7/70/Albertosaurus_JWE2_Profile.png/revision/latest?cb=20220601214639",
+   "Location": "North America",
+   "height": "3.6",
+   "FoodType": "carnivore",
+   "DiscoveryDate": 1884
+ },
+ {
+   "Name": "Chilesaurus diegosuarezi",
+   "Picture": "https://dino-data.ca/PHPLib/getimage.php?Card=Dino&ID=3",
+   "Location": "South America",
+   "height": "3.2",
+   "FoodType": "herbivores",
+   "DiscoveryDate": 2004
+ },
+ {
+   "Name": "Ekrixinatosaurus novasi",
+   "Picture": "getimage.php (800×408) (dino-data.ca)",
+   "Location": "South America",
+   "height": "11m",
+   "FoodType": "carnivore",
+   "DiscoveryDate": 2004
+ },
+ {
+   "Name": "Daanosaurus",
+   "Picture": "https://static.wikia.nocookie.net/dinosaurs/images/f/f1/Daanosaurus%282%29.jpg/revision/latest?cb=20210424012527",
+   "Location": "Asia",
+   "height": "6.1",
+   "FoodType": "herbivores",
+   "DiscoveryDate": 2005
+ },
+ {
+   "Name": "Echinodon",
+   "Picture": "https://static.wikia.nocookie.net/prehistrico/images/2/27/Echinodon.jpg/revision/latest?cb=20201223130550&path-prefix=es",
+   "Location": "Europe",
+   "height": "0.6",
+   "FoodType": "herbivores",
+   "DiscoveryDate": 1861
+ },
+ {
+   "Name": "Falcarius",
+   "Picture": "https://nhmu.utah.edu/sites/default/files/falcarius-draft_1.jpg",
+   "Location": "North America",
+   "height": "4",
+   "FoodType": "herbivores",
+   "DiscoveryDate": 1999
+ },
+ {
+   "Name": "Galeamopus",
+   "Picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdM4Tv_yeHcKuNANSMdN7izBaMV8yY6lx3v5B4XXfF4unW8qr4",
+   "Location": "North America",
+   "height": "27",
+   "FoodType": "herbivores",
+   "DiscoveryDate": 1995
+ },
+ {
+   "Name": "Hadrosaurus",
+   "Picture": "http://t1.gstatic.com/licensed-image?q=tbn:ANd9GcRj_xRM-LokEE4CeE9pAgUscwyoWSuzXnlvHjs7seBuPHO-FwE2LOBTbKognD9-gwlf3Ia4frqWmNX2FOM",
+   "Location": "North America",
+   "height": "3m",
+   "FoodType": "herbivores",
+   "DiscoveryDate": 1958
+ }
+]
